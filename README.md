@@ -1,5 +1,5 @@
 # Sorting-Algo-Visualizer
-Algorithm Visualizer lets you visualize various algorithms and data structures. This project mainly focuses on three types of sorting algorithms
+<p>Algorithm Visualizer lets you visualize various algorithms and data structures. This project mainly focuses on three types of sorting algorithms</p>
 <div>
       <ul>
   <li>Selection Sort:</li>    
